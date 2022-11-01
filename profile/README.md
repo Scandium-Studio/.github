@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to Scandium Studio!</h1>
-
-
+<p align="center">
+欢迎莅临21号工作室!
+</p>
+  
 # Scandium Studio 第21号工作室
 一个摸鱼的专业摆烂工作室，至于为什么叫21号工作室，那就是因为Scandium（钪）原子序数是21……
 
