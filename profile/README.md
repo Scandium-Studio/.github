@@ -3,4 +3,4 @@
 秉持着“什么都会一点点”的态度制作作品，当然了，也就是只会一点点……
 
 ## 作品
-*Glass++DevKit(https://github.com/WForst-Breeze/glassplus-developerkit)* By **WForst Breeze(https://github.com/WForst-Breeze/)**
+*[Glass++DevKit](https://github.com/WForst-Breeze/glassplus-developerkit)* By **[WForst Breeze](https://github.com/WForst-Breeze/)**
